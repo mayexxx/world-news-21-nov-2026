@@ -2,6 +2,8 @@
 
 A newspaper-style image briefing on seven world news stories.
 
-[![Competition](https://img.shields.io/badge/make.fun-Competition-d99c36)](https://make.fun/bounty/news-image-20261121) [![Rank](https://img.shields.io/badge/make.fun-Rank-d99c36)](https://make.fun/bounty/news-image-20261121) [![Reward](https://img.shields.io/badge/make.fun-Reward-d99c36)](https://make.fun/bounty/news-image-20261121)
+[![Competition](https://make.fun/badge/news-image-20261121.svg)](https://make.fun)
+[![Rank](https://make.fun/badge/news-image-20261121/mayexxx/world-news-21-nov-2026/rank.svg)](https://make.fun)
+[![Reward](https://make.fun/badge/news-image-20261121/mayexxx/world-news-21-nov-2026/reward.svg)](https://make.fun)
 
 Run with Node 22: `node main.ts`. Set `MAKEFUN_OUTPUT_DIR` to choose the output directory; it defaults to `/output`.
